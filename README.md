@@ -1,6 +1,6 @@
 # Assignment for ImagoAI
 ## Overview
-This project involves processing hyperspectral imaging data, performing dimensionality reduction, and developing a machine learning model to predict mycotoxin levels (DON concentration) in corn samples. The model utilizes XGBoost regression for accurate predictions.
+This project involves processing hyperspectral imaging data, performing dimensionality reduction, and developing a machine learning model to predict mycotoxin levels (DON concentration) in corn samples. The model utilizes several regression models for accurate predictions.
 
 ## Dataset Description
 
